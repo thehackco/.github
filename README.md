@@ -1,1 +1,1 @@
-# .github
+# Hello, there :wave:!
